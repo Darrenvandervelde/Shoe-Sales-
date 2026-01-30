@@ -6,6 +6,9 @@ This project analyzes a small dataset of shoe sales over a year. The data is sto
 
 ![screenimahe](image.png)
 
+
+[Live Demo](https;//github.com)
+
 ## Features
 - Stores shoe sales data in a structured array format.
 - Calculates total yearly revenue.
