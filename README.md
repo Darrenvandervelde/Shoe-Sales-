@@ -1,5 +1,7 @@
 # Shoe Sales Data Analysis (Yearly)
 
+![Live Dashboard](https://github.lic)
+
 [Live Dashboard](https://github.lic)
 
 
