@@ -1,5 +1,7 @@
 # Shoe Sales Data Analysis (Yearly)
 
+[Click here for live Dashboard](https://github.com)
+
 ## Project Overview
 This project analyzes a small dataset of shoe sales over a year. The data is stored in an array and includes monthly sales of different shoe types. The analysis calculates key metrics such as total revenue, monthly revenue, and revenue per shoe type, providing insights into sales performance throughout the year.
 
