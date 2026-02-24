@@ -27,20 +27,7 @@ The sales data is stored as a list of lists in a Array ( Python )
 - **Revenue by Shoe Type** – Sum revenue per shoe type to identify best-selling products.
 - **Key Insights** – Highlight trends such as seasonal performance and high-performing products.
 
-## API 
 
-```bash
-POST /predict
-
-Request: { "transaction": { "TransactionDT": 100000, "TransactionAmt": 49.99, "ProductCD": "W", "card1": 1234, "addr1": 200, "P_emaildomain": "gmail.com" }, "threshold": 0.5 }
-```
-
-outcome
-```bash
-
-{ "fraud_proba": 0.05, "fraud_label": 0, "threshold": 0.5 }
-
-```
 ## Key Insights
 
 - Sneakers consistently generated strong sales across multiple months.
