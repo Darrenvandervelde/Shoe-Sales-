@@ -8,7 +8,7 @@ This project analyzes a small dataset of shoe sales over a year. The data is sto
 - Calculates total yearly revenue.
 - Computes monthly revenue for each month.
 - Aggregates revenue by shoe type to identify top-selling products.
-- Provides key insights based on the sales trends.
+- Provides key insights based on the sales trends. /
 
 ## Dataset
 The sales data is stored as a list of lists in a Array ( Python ) 
